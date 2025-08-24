@@ -6,7 +6,7 @@ Users can upload photos of items, shops, restaurants, events, or hidden gems, an
 ---
 
 ## ✨ Core Idea
-- Users can anonymously and without registration upload a picture of something trending (e.g. clothes, food, a new café, nature spot).  
+- Users can anonymously upload a picture of something trending (e.g. clothes, food, a new café, nature spot).  
 - Add details like title, description, and availability.  
 - The app automatically tags the post with its location.  
 - Other users can browse a **map view** or **feed** to see what’s hot nearby.  
