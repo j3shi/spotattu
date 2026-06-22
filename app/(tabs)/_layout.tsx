@@ -1,9 +1,10 @@
 import { Tabs } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
+import { lightColors, darkColors } from '../theme/colors';
 
 export default function TabsLayout() {
     return (
-        <Tabs screenOptions={{ tabBarActiveTintColor: '#FF5A5F', headerShown: true }}>
+        <Tabs screenOptions={{ tabBarActiveTintColor: lightColors.accent, headerShown: true }}>
             <Tabs.Screen 
             name="map"
             options={{
